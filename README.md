@@ -1,4 +1,4 @@
-# 👑 Royal Task Manager (MERN Stack)
+# 👑 Major Project (MERN Stack)
 
 A premium **Full-Stack MERN Task Management Application** built with **MongoDB, Express.js, React.js, and Node.js**. The application provides secure authentication, task management, dashboard analytics, category management, and a modern responsive glassmorphism interface.
 
