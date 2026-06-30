@@ -1,0 +1,4 @@
+.chart-container { padding: 24px; height: 100%; }
+.chart-title { font-size: 16px; font-weight: 600; margin-bottom: 20px; }
+.chart-wrapper { height: 250px; position: relative; }
+.chart-wrapper.bar { height: 280px; }

@@ -1,0 +1,8 @@
+.task-filters { margin-bottom: 24px; }
+.filters-top { display: flex; gap: 12px; align-items: center; }
+.search-box { position: relative; flex: 1; }
+.search-icon { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--text-muted); font-size: 16px; }
+.search-input { padding-left: 42px; }
+.filters-panel { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; padding: 20px; margin-top: 16px; }
+.filter-group { display: flex; flex-direction: column; }
+@media (max-width: 768px) { .filters-top { flex-direction: column; } .search-box { width: 100%; } .filters-top .btn { width: 100%; } }

@@ -1,0 +1,3 @@
+.pagination { display: flex; align-items: center; justify-content: space-between; margin-top: 24px; padding: 16px 0; flex-wrap: wrap; gap: 12px; }
+.pagination-info { font-size: 13px; color: var(--text-secondary); }
+.pagination-controls { display: flex; align-items: center; gap: 4px; }

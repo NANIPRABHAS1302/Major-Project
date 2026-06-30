@@ -1,0 +1,4 @@
+.task-form .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.task-textarea { resize: vertical; min-height: 80px; }
+.form-actions { display: flex; justify-content: flex-end; gap: 12px; margin-top: 8px; }
+@media (max-width: 480px) { .task-form .form-row { grid-template-columns: 1fr; } }

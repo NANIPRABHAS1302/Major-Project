@@ -1,0 +1,5 @@
+.dashboard-charts { min-height: 350px; }
+.recent-tasks { padding: 24px; }
+.section-title { font-size: 18px; font-weight: 600; margin-bottom: 20px; }
+.recent-tasks-list { display: flex; flex-direction: column; gap: 12px; }
+.empty-text { color: var(--text-secondary); text-align: center; padding: 20px; }
